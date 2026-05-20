@@ -6,49 +6,109 @@
   <title>Aerospace Supply Chain KPI Scorecard</title>
   <link rel="stylesheet" href="src/styles.css">
 </head>
-<body style="--accent:#4f46e5;--bg:#f4f5ff">
-  <main class="shell">
-    <header class="hero">
-      <div>
-        <p class="eyebrow">Workbench / aerospace supply chain KPI reporting</p>
-        <h1>Aerospace Supply Chain KPI Scorecard</h1>
-      </div>
-      <aside>
-        <b>Purpose</b>
-        <span>Turn messy supplier part-level signals into a ranked operating artifact with recommendations a stakeholder can act on.</span>
-      </aside>
-    </header>
-    <section class="metrics">
-      <article><span>Modeled rows</span><strong>6.0K+</strong><em>source-style</em></article>
-      <article><span>Ranked queue</span><strong>25</strong><em>supplier parts</em></article>
-      <article><span>Action pool</span><strong>220</strong><em>candidates</em></article>
-      <article><span>Review time</span><strong>-6 hrs</strong><em>weekly</em></article>
+<body>
+  <header class="topbar">
+    <div>
+      <p class="eyebrow">Aerospace supply chain reporting</p>
+      <h1>Supply Chain KPI Scorecard</h1>
+    </div>
+    <nav class="tabs" aria-label="Artifact surfaces">
+      <button class="tab is-active" data-tab="scorecard">Scorecard</button>
+      <button class="tab" data-tab="risk">Risk Queue</button>
+      <button class="tab" data-tab="governance">Governance</button>
+    </nav>
+  </header>
+
+  <main>
+    <section class="surface is-active" id="scorecard">
+      <section class="metric-grid" id="metricGrid"></section>
+      <section class="layout two">
+        <article class="panel">
+          <div class="panel-head">
+            <div>
+              <p class="eyebrow">Business unit review</p>
+              <h2>Material readiness and working capital</h2>
+            </div>
+            <span class="status-pill">Monthly cadence</span>
+          </div>
+          <div class="bar-list" id="readinessBars"></div>
+        </article>
+        <article class="panel">
+          <div class="panel-head">
+            <div>
+              <p class="eyebrow">Supplier performance</p>
+              <h2>Escalation watchlist</h2>
+            </div>
+            <span class="status-pill warn">Supplier OTIF</span>
+          </div>
+          <div class="compact-table" id="supplierTable"></div>
+        </article>
+      </section>
     </section>
-    <section class="main-grid">
-      <article class="panel lead">
-        <p class="eyebrow">Semantic model</p>
-        <h2>Priority queue</h2>
-        <table>
-          <thead><tr><th>supplier part</th><th>Signal</th><th>Risk</th><th>Next move</th></tr></thead>
-          <tbody>
-            <tr><td>Segment A</td><td>Source validation</td><td>High</td><td>Escalate with source check</td></tr>
-            <tr><td>Segment B</td><td>Self-service readiness</td><td>Medium</td><td>Test with clear owner</td></tr>
-            <tr><td>Segment C</td><td>Quality gap</td><td>Watch</td><td>Document metric definition</td></tr>
-          </tbody>
-        </table>
-      </article>
-      <article class="panel narrative">
-        <p class="eyebrow">What the analysis says</p>
-        <h2>Recommendations over screenshots</h2>
-        <p>The artifact is built around decisions, not dashboard decoration: each source table feeds a ranked queue, and each queue item resolves into a recommendation.</p>
-        <p>The strongest opportunities appear where performance upside, measurement quality, and operating readiness overlap.</p>
-      </article>
+
+    <section class="surface" id="risk">
+      <section class="layout focus">
+        <article class="panel">
+          <div class="panel-head">
+            <div>
+              <p class="eyebrow">Supplier-part queue</p>
+              <h2>Readiness risk workbench</h2>
+            </div>
+            <span class="status-pill alert">Action ranked</span>
+          </div>
+          <div class="queue" id="riskQueue"></div>
+        </article>
+        <aside class="decision-panel">
+          <p class="eyebrow">Score logic</p>
+          <h2>Explainable readiness score</h2>
+          <div class="weights">
+            <span><b>34%</b> shortage exposure</span>
+            <span><b>24%</b> supplier performance</span>
+            <span><b>16%</b> lead time pressure</span>
+            <span><b>14%</b> criticality</span>
+            <span><b>12%</b> excess inventory</span>
+          </div>
+          <p>The queue converts ERP receipt history, inventory balances, shortage tracker records, and quality events into owner-ready actions.</p>
+        </aside>
+      </section>
     </section>
-    <section class="recommendations">
-      <article><b>01</b><h3>Validate</h3><p>Confirm source definitions before scaling the insight into recurring reporting.</p></article>
-      <article><b>02</b><h3>Prioritize</h3><p>Move the highest-value supplier part segment into the next operating review.</p></article>
-      <article><b>03</b><h3>Automate</h3><p>Convert the queue into a stakeholder-ready digest for repeated decisions.</p></article>
+
+    <section class="surface" id="governance">
+      <section class="layout two">
+        <article class="panel">
+          <div class="panel-head">
+            <div>
+              <p class="eyebrow">Refresh administration</p>
+              <h2>Dataset refresh SLA</h2>
+            </div>
+            <span class="status-pill">Power BI-ready</span>
+          </div>
+          <div class="bar-list" id="refreshBars"></div>
+        </article>
+        <article class="panel">
+          <div class="panel-head">
+            <div>
+              <p class="eyebrow">Data quality</p>
+              <h2>Remediation queue</h2>
+            </div>
+            <span class="status-pill alert">Governed metrics</span>
+          </div>
+          <div class="compact-table" id="qualityTable"></div>
+        </article>
+      </section>
+      <section class="panel wide">
+        <div class="panel-head">
+          <div>
+            <p class="eyebrow">KPI documentation</p>
+            <h2>Certified metric catalog</h2>
+          </div>
+          <span class="status-pill">Definitions and owners</span>
+        </div>
+        <div class="definition-grid" id="definitionGrid"></div>
+      </section>
     </section>
   </main>
+
+  <script src="src/app.js"></script>
 </body>
 </html>

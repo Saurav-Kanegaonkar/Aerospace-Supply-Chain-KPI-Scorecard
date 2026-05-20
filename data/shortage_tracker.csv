@@ -1,0 +1,25 @@
+shortage_id,part_id,business_unit,site,shortage_units,program_need_date,severity,root_cause,owner,mitigation_status
+SH0001,PRT005,Optical sensors,Concord development,47,2026-04-21,High,Demand change,Supply chain,Blocked
+SH0002,PRT006,Space electronics,Concord development,10,2026-04-07,Medium,Supplier slip,Operations,Open
+SH0003,PRT008,C4ISR systems,Chantilly production,8,2026-04-21,Medium,Min max gap,Supply chain,Open
+SH0004,PRT022,Space electronics,Concord development,8,2026-04-27,Medium,Supplier slip,Operations,Open
+SH0005,PRT023,Space electronics,Chantilly production,10,2026-04-09,High,Supplier slip,Supply chain,In progress
+SH0006,PRT025,Optical sensors,Concord development,14,2026-04-17,High,Quality hold,Operations,Open
+SH0007,PRT029,Optical sensors,Fairfax HQ,11,2026-04-18,High,Supplier slip,Finance,Open
+SH0008,PRT030,Space electronics,Concord development,38,2026-04-09,Medium,Min max gap,Operations,Blocked
+SH0009,PRT031,C4ISR systems,Chantilly production,26,2026-04-14,Medium,Supplier slip,Finance,Open
+SH0010,PRT032,C4ISR systems,Concord development,4,2026-04-24,Medium,Min max gap,Finance,In progress
+SH0011,PRT034,Optical sensors,Concord development,5,2026-04-11,Medium,Min max gap,Supply chain,Open
+SH0012,PRT037,Optical sensors,Concord development,8,2026-04-15,Medium,Supplier slip,Supply chain,Open
+SH0013,PRT039,Space electronics,Concord development,10,2026-04-13,Medium,Demand change,Program,Open
+SH0014,PRT040,C4ISR systems,Fairfax HQ,31,2026-04-18,High,PO not released,Finance,Blocked
+SH0015,PRT041,C4ISR systems,Chantilly production,19,2026-04-21,High,Quality hold,Program,Blocked
+SH0016,PRT044,C4ISR systems,Concord development,31,2026-04-17,High,Demand change,Operations,Blocked
+SH0017,PRT045,Optical sensors,Chantilly production,15,2026-04-27,High,PO not released,Operations,Open
+SH0018,PRT047,Optical sensors,Chantilly production,8,2026-04-14,High,Supplier slip,Supply chain,Open
+SH0019,PRT048,Space electronics,Chantilly production,5,2026-04-04,Medium,Supplier slip,Program,In progress
+SH0020,PRT056,Space electronics,Chantilly production,10,2026-04-20,Medium,Demand change,Operations,Blocked
+SH0021,PRT058,C4ISR systems,Fairfax HQ,69,2026-04-04,High,Supplier slip,Supply chain,Open
+SH0022,PRT066,C4ISR systems,Fairfax HQ,10,2026-04-26,High,Quality hold,Program,In progress
+SH0023,PRT068,Space electronics,Fairfax HQ,20,2026-04-25,High,Demand change,Supply chain,In progress
+SH0024,PRT069,Space electronics,Chantilly production,29,2026-04-23,High,Min max gap,Operations,Open

@@ -1,0 +1,73 @@
+part_id,part_name,supplier_id,supplier_name,business_unit,site,criticality,standard_lead_time_days,supplier_otif_pct,shortage_units,shortage_value,excess_value,quality_events,quality_impact,readiness_risk_score,root_cause,recommended_action,business_owner
+PRT030,Radiation tolerant FPGA 030,SUP028,Mission supplier 28,Space electronics,Concord development,Program critical,150,53.8,38,805334,0,0,0,72.9,Min max gap,Escalate supplier recovery plan,Supply chain
+PRT011,Optical assembly 011,SUP005,Mission supplier 05,Space electronics,Chantilly production,Flight critical,198,33.3,0,0,993376,0,0,64.4,Inventory policy,Reduce buys and review excess disposition,Operations
+PRT044,Radiation tolerant FPGA 044,SUP018,Mission supplier 18,C4ISR systems,Concord development,Standard,126,66.7,31,865148,0,0,0,61.7,Demand change,Escalate supplier recovery plan,Operations
+PRT055,Optical assembly 055,SUP030,Mission supplier 30,C4ISR systems,Concord development,Flight critical,169,33.3,0,0,769212,0,0,61.7,Inventory policy,Reduce buys and review excess disposition,Program
+PRT006,Optical assembly 006,SUP002,Mission supplier 02,Space electronics,Concord development,Flight critical,160,50.0,10,245530,0,1,1103657,60.7,Supplier slip,Pull in PO and approve alternate source,Program
+PRT022,Power subsystem 022,SUP021,Mission supplier 21,Space electronics,Concord development,Flight critical,174,28.6,8,102368,0,0,0,58.8,Supplier slip,Start supplier performance review,Finance
+PRT045,Optical assembly 045,SUP004,Mission supplier 04,Optical sensors,Chantilly production,Standard,174,38.5,15,315240,0,0,0,58.0,PO not released,Escalate supplier recovery plan,Program
+PRT033,Optical assembly 033,SUP003,Mission supplier 03,Space electronics,Chantilly production,Flight critical,191,54.5,0,0,1163067,0,0,57.3,Inventory policy,Reduce buys and review excess disposition,Finance
+PRT003,Power subsystem 003,SUP021,Mission supplier 21,Optical sensors,Concord development,Flight critical,189,25.0,0,0,0,1,731768,54.0,Inventory policy,Start supplier performance review,Program
+PRT005,RF module 005,SUP008,Mission supplier 08,Optical sensors,Concord development,Program critical,67,55.6,47,434750,0,0,0,53.7,Demand change,Escalate supplier recovery plan,Finance
+PRT039,RF module 039,SUP022,Mission supplier 22,Space electronics,Concord development,Program critical,145,0.0,10,108970,0,0,0,52.7,Demand change,Start supplier performance review,Program
+PRT064,Power subsystem 064,SUP020,Mission supplier 20,C4ISR systems,Chantilly production,Program critical,193,27.3,0,0,187352,0,0,52.6,Inventory policy,Start supplier performance review,Supply chain
+PRT052,Radiation tolerant FPGA 052,SUP011,Mission supplier 11,Optical sensors,Concord development,Program critical,151,50.0,0,0,1361779,0,0,52.3,Inventory policy,Reduce buys and review excess disposition,Program
+PRT065,Radiation tolerant FPGA 065,SUP012,Mission supplier 12,Optical sensors,Concord development,Flight critical,131,57.1,0,0,1015626,0,0,52.0,Inventory policy,Reduce buys and review excess disposition,Supply chain
+PRT040,RF module 040,SUP012,Mission supplier 12,C4ISR systems,Fairfax HQ,Flight critical,68,66.7,31,285355,0,2,931546,51.9,PO not released,Escalate supplier recovery plan,Finance
+PRT054,Optical assembly 054,SUP023,Mission supplier 23,Space electronics,Concord development,Flight critical,132,60.0,0,0,666750,1,722948,50.9,Inventory policy,Reduce buys and review excess disposition,Finance
+PRT058,Cable harness 058,SUP025,Mission supplier 25,C4ISR systems,Fairfax HQ,Program critical,32,27.3,69,266271,0,0,0,50.9,Supplier slip,Escalate supplier recovery plan,Program
+PRT046,Cable harness 046,SUP022,Mission supplier 22,Optical sensors,Concord development,Flight critical,89,11.1,0,0,254560,1,126592,49.3,Inventory policy,Start supplier performance review,Finance
+PRT034,RF module 034,SUP005,Mission supplier 05,Optical sensors,Concord development,Flight critical,99,18.2,5,45240,0,1,275512,49.2,Min max gap,Start supplier performance review,Finance
+PRT068,RF module 068,SUP017,Mission supplier 17,Space electronics,Fairfax HQ,Program critical,84,22.2,20,142900,0,0,0,49.0,Demand change,Pull in PO and approve alternate source,Operations
+PRT057,Radiation tolerant FPGA 057,SUP015,Mission supplier 15,Space electronics,Chantilly production,Flight critical,150,35.7,0,0,0,0,0,48.9,Inventory policy,Start supplier performance review,Operations
+PRT024,RF module 024,SUP020,Mission supplier 20,Optical sensors,Concord development,Flight critical,49,10.0,0,0,451584,0,0,48.4,Inventory policy,Start supplier performance review,Supply chain
+PRT032,Space grade memory 032,SUP003,Mission supplier 03,C4ISR systems,Concord development,Flight critical,122,50.0,4,45156,0,1,286176,46.9,Min max gap,Start supplier performance review,Finance
+PRT029,Space grade memory 029,SUP012,Mission supplier 12,Optical sensors,Fairfax HQ,Flight critical,106,50.0,11,121429,0,0,0,46.6,Supplier slip,Pull in PO and approve alternate source,Finance
+PRT036,Radiation tolerant FPGA 036,SUP008,Mission supplier 08,Space electronics,Concord development,Program critical,148,50.0,0,0,474200,0,0,46.4,Inventory policy,Start supplier performance review,Operations
+PRT038,Power subsystem 038,SUP007,Mission supplier 07,Optical sensors,Concord development,Flight critical,78,50.0,0,0,356157,1,592935,45.4,Inventory policy,Start supplier performance review,Operations
+PRT061,Radiation tolerant FPGA 061,SUP025,Mission supplier 25,C4ISR systems,Concord development,Flight critical,151,63.6,0,0,0,2,1269726,45.4,Inventory policy,Start supplier performance review,Program
+PRT027,Optical assembly 027,SUP005,Mission supplier 05,Optical sensors,Concord development,Flight critical,206,63.6,0,0,0,1,387072,45.1,Inventory policy,Start supplier performance review,Supply chain
+PRT016,Power subsystem 016,SUP016,Mission supplier 16,Space electronics,Fairfax HQ,Standard,105,22.2,0,0,467610,0,0,44.9,Inventory policy,Start supplier performance review,Finance
+PRT012,RF module 012,SUP019,Mission supplier 19,Optical sensors,Concord development,Flight critical,80,44.4,0,0,133777,1,57662,44.4,Inventory policy,Start supplier performance review,Operations
+PRT072,Radiation tolerant FPGA 072,SUP024,Mission supplier 24,Space electronics,Fairfax HQ,Program critical,164,54.5,0,0,271667,0,0,43.6,Inventory policy,Start supplier performance review,Program
+PRT014,Mechanical enclosure 014,SUP021,Mission supplier 21,C4ISR systems,Chantilly production,Flight critical,67,41.7,0,0,0,1,155081,42.4,Inventory policy,Start supplier performance review,Program
+PRT015,Mechanical enclosure 015,SUP024,Mission supplier 24,C4ISR systems,Chantilly production,Flight critical,83,37.5,0,0,0,0,0,42.4,Inventory policy,Start supplier performance review,Program
+PRT035,Radiation tolerant FPGA 035,SUP026,Mission supplier 26,C4ISR systems,Concord development,Flight critical,115,46.2,0,0,0,0,0,42.3,Inventory policy,Start supplier performance review,Finance
+PRT070,RF module 070,SUP015,Mission supplier 15,C4ISR systems,Chantilly production,Flight critical,88,44.4,0,0,122580,0,0,42.1,Inventory policy,Start supplier performance review,Operations
+PRT013,Power subsystem 013,SUP024,Mission supplier 24,C4ISR systems,Concord development,Flight critical,129,53.8,0,0,0,0,0,41.0,Inventory policy,Start supplier performance review,Operations
+PRT047,RF module 047,SUP029,Mission supplier 29,Optical sensors,Chantilly production,Flight critical,112,66.7,8,80256,0,0,0,39.4,Supplier slip,Start supplier performance review,Operations
+PRT004,Space grade memory 004,SUP007,Mission supplier 07,Space electronics,Chantilly production,Program critical,145,60.0,0,0,0,1,220284,39.3,Inventory policy,Start supplier performance review,Finance
+PRT063,Radiation tolerant FPGA 063,SUP006,Mission supplier 06,Space electronics,Concord development,Standard,188,55.6,0,0,118140,0,0,37.8,Inventory policy,Start supplier performance review,Finance
+PRT042,Radiation tolerant FPGA 042,SUP025,Mission supplier 25,Optical sensors,Fairfax HQ,Program critical,127,70.0,0,0,463064,0,0,37.6,Inventory policy,Start supplier performance review,Supply chain
+PRT043,Radiation tolerant FPGA 043,SUP001,Mission supplier 01,Space electronics,Concord development,Standard,131,58.3,0,0,474980,0,0,37.3,Inventory policy,Start supplier performance review,Supply chain
+PRT066,Cable harness 066,SUP008,Mission supplier 08,C4ISR systems,Fairfax HQ,Flight critical,42,45.5,10,24580,0,0,0,37.3,Quality hold,Start supplier performance review,Finance
+PRT017,RF module 017,SUP015,Mission supplier 15,Optical sensors,Fairfax HQ,Flight critical,79,55.6,0,0,93492,0,0,37.2,Inventory policy,Start supplier performance review,Finance
+PRT019,Power subsystem 019,SUP029,Mission supplier 29,Space electronics,Concord development,Flight critical,131,66.7,0,0,25924,0,0,37.2,Inventory policy,Start supplier performance review,Finance
+PRT018,Cable harness 018,SUP001,Mission supplier 01,C4ISR systems,Concord development,Flight critical,58,54.5,0,0,203400,0,0,37.1,Inventory policy,Start supplier performance review,Program
+PRT067,RF module 067,SUP003,Mission supplier 03,C4ISR systems,Fairfax HQ,Flight critical,100,73.3,0,0,387444,0,0,37.0,Inventory policy,Monitor in next recurring review,Finance
+PRT053,Space grade memory 053,SUP003,Mission supplier 03,C4ISR systems,Concord development,Flight critical,115,62.5,0,0,0,0,0,36.8,Inventory policy,Start supplier performance review,Supply chain
+PRT009,Mechanical enclosure 009,SUP002,Mission supplier 02,C4ISR systems,Fairfax HQ,Flight critical,63,61.5,0,0,43724,1,80632,36.0,Inventory policy,Start supplier performance review,Finance
+PRT010,Space grade memory 010,SUP029,Mission supplier 29,Space electronics,Fairfax HQ,Program critical,103,61.5,0,0,0,1,373262,35.0,Inventory policy,Start supplier performance review,Supply chain
+PRT023,RF module 023,SUP030,Mission supplier 30,Space electronics,Chantilly production,Standard,107,50.0,10,61620,0,0,0,34.9,Supplier slip,Start supplier performance review,Program
+PRT001,Space grade memory 001,SUP004,Mission supplier 04,Space electronics,Concord development,Flight critical,96,63.6,0,0,0,0,0,34.8,Inventory policy,Start supplier performance review,Finance
+PRT028,Optical assembly 028,SUP017,Mission supplier 17,C4ISR systems,Concord development,Flight critical,140,75.0,0,0,0,0,0,34.8,Inventory policy,Monitor in next recurring review,Finance
+PRT071,RF module 071,SUP012,Mission supplier 12,Space electronics,Fairfax HQ,Flight critical,76,77.8,0,0,486948,0,0,34.7,Inventory policy,Monitor in next recurring review,Operations
+PRT069,Cable harness 069,SUP004,Mission supplier 04,Space electronics,Chantilly production,Flight critical,46,66.7,29,99325,0,0,0,34.5,Min max gap,Start supplier performance review,Supply chain
+PRT051,RF module 051,SUP010,Mission supplier 10,C4ISR systems,Chantilly production,Flight critical,54,55.6,0,0,0,0,0,33.7,Inventory policy,Start supplier performance review,Finance
+PRT020,Cable harness 020,SUP017,Mission supplier 17,Space electronics,Concord development,Program critical,53,50.0,0,0,125587,0,0,33.3,Inventory policy,Start supplier performance review,Operations
+PRT037,Power subsystem 037,SUP004,Mission supplier 04,Optical sensors,Concord development,Program critical,91,75.0,8,124944,0,0,0,33.1,Supplier slip,Pull in PO and approve alternate source,Operations
+PRT041,Mechanical enclosure 041,SUP001,Mission supplier 01,C4ISR systems,Chantilly production,Flight critical,30,61.5,19,62700,0,0,0,32.9,Quality hold,Start supplier performance review,Program
+PRT060,Space grade memory 060,SUP023,Mission supplier 23,Optical sensors,Concord development,Program critical,78,54.5,0,0,10047,0,0,32.4,Inventory policy,Start supplier performance review,Supply chain
+PRT008,Mechanical enclosure 008,SUP005,Mission supplier 05,C4ISR systems,Chantilly production,Program critical,91,66.7,8,50528,0,0,0,32.0,Min max gap,Start supplier performance review,Program
+PRT025,RF module 025,SUP004,Mission supplier 04,Optical sensors,Concord development,Standard,90,60.0,14,89082,0,0,0,31.4,Quality hold,Start supplier performance review,Supply chain
+PRT050,Radiation tolerant FPGA 050,SUP030,Mission supplier 30,C4ISR systems,Fairfax HQ,Program critical,133,76.9,0,0,105552,0,0,31.1,Inventory policy,Monitor in next recurring review,Supply chain
+PRT062,Mechanical enclosure 062,SUP001,Mission supplier 01,Space electronics,Chantilly production,Program critical,57,54.5,0,0,0,0,0,30.4,Inventory policy,Start supplier performance review,Supply chain
+PRT048,RF module 048,SUP026,Mission supplier 26,Space electronics,Chantilly production,Standard,28,40.0,5,39155,0,0,0,30.0,Supplier slip,Start supplier performance review,Program
+PRT002,Mechanical enclosure 002,SUP011,Mission supplier 11,Space electronics,Chantilly production,Program critical,40,58.3,0,0,32776,0,0,28.1,Inventory policy,Start supplier performance review,Supply chain
+PRT031,Cable harness 031,SUP027,Mission supplier 27,C4ISR systems,Chantilly production,Program critical,36,70.0,26,29068,0,1,53720,27.8,Supplier slip,Start supplier performance review,Program
+PRT026,Cable harness 026,SUP027,Mission supplier 27,C4ISR systems,Chantilly production,Standard,43,50.0,0,0,0,0,0,25.9,Inventory policy,Start supplier performance review,Supply chain
+PRT007,Cable harness 007,SUP010,Mission supplier 10,Space electronics,Chantilly production,Flight critical,35,75.0,0,0,4071,0,0,25.6,Inventory policy,Monitor in next recurring review,Finance
+PRT056,Cable harness 056,SUP019,Mission supplier 19,Space electronics,Chantilly production,Standard,25,50.0,10,10440,0,0,0,24.9,Demand change,Start supplier performance review,Finance
+PRT049,Space grade memory 049,SUP017,Mission supplier 17,C4ISR systems,Chantilly production,Standard,99,76.9,0,0,0,1,143110,24.8,Inventory policy,Start supplier performance review,Finance
+PRT021,Mechanical enclosure 021,SUP010,Mission supplier 10,Space electronics,Chantilly production,Standard,44,66.7,0,0,228624,0,0,23.5,Inventory policy,Start supplier performance review,Operations
+PRT059,Space grade memory 059,SUP018,Mission supplier 18,Space electronics,Concord development,Standard,98,88.9,0,0,35704,0,0,18.2,Inventory policy,Monitor in next recurring review,Program

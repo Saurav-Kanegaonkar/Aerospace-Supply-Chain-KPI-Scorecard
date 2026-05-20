@@ -1,0 +1,31 @@
+supplier_id,supplier_name,supplier_tier,region,quality_system_status,defense_flowdown_ready,tier_delay_multiplier,base_escape_rate
+SUP001,Mission supplier 01,Qualified,PA,Conditional,Yes,1.0,0.04
+SUP002,Mission supplier 02,Preferred,TX,Audit due,Yes,0.85,0.025
+SUP003,Mission supplier 03,Qualified,MA,Approved,Yes,1.0,0.04
+SUP004,Mission supplier 04,Preferred,MD,Approved,Needs review,0.85,0.025
+SUP005,Mission supplier 05,Strategic sole source,VA,Conditional,Yes,1.2,0.065
+SUP006,Mission supplier 06,Strategic sole source,VA,Approved,Yes,1.2,0.065
+SUP007,Mission supplier 07,Qualified,PA,Approved,Yes,1.0,0.04
+SUP008,Mission supplier 08,Preferred,VA,Approved,Yes,0.85,0.025
+SUP009,Mission supplier 09,Preferred,MA,Approved,Needs review,0.85,0.025
+SUP010,Mission supplier 10,Preferred,PA,Approved,Needs review,0.85,0.025
+SUP011,Mission supplier 11,Preferred,TX,Approved,Yes,0.85,0.025
+SUP012,Mission supplier 12,Preferred,CO,Audit due,Yes,0.85,0.025
+SUP013,Mission supplier 13,Watch list,TX,Conditional,Yes,1.35,0.095
+SUP014,Mission supplier 14,Preferred,CO,Audit due,Yes,0.85,0.025
+SUP015,Mission supplier 15,Preferred,TX,Conditional,Needs review,0.85,0.025
+SUP016,Mission supplier 16,Preferred,CA,Approved,Yes,0.85,0.025
+SUP017,Mission supplier 17,Preferred,CA,Conditional,Yes,0.85,0.025
+SUP018,Mission supplier 18,Preferred,CO,Approved,Yes,0.85,0.025
+SUP019,Mission supplier 19,Preferred,CA,Audit due,Yes,0.85,0.025
+SUP020,Mission supplier 20,Watch list,TX,Approved,Yes,1.35,0.095
+SUP021,Mission supplier 21,Strategic sole source,MD,Conditional,Yes,1.2,0.065
+SUP022,Mission supplier 22,Watch list,CO,Approved,Yes,1.35,0.095
+SUP023,Mission supplier 23,Preferred,CA,Audit due,Needs review,0.85,0.025
+SUP024,Mission supplier 24,Qualified,PA,Approved,Yes,1.0,0.04
+SUP025,Mission supplier 25,Preferred,CO,Conditional,Yes,0.85,0.025
+SUP026,Mission supplier 26,Preferred,CO,Approved,Yes,0.85,0.025
+SUP027,Mission supplier 27,Preferred,NH,Conditional,Yes,0.85,0.025
+SUP028,Mission supplier 28,Qualified,AZ,Approved,Needs review,1.0,0.04
+SUP029,Mission supplier 29,Qualified,MD,Audit due,Yes,1.0,0.04
+SUP030,Mission supplier 30,Preferred,NH,Approved,Needs review,0.85,0.025

@@ -1,0 +1,31 @@
+refresh_id,month,dataset_name,source_type,refresh_status,refresh_duration_minutes,sla_minutes,rows_processed,owner
+RF0101,2025-10,ERP purchase orders,ERP,Failed,45,30,4108,Analytics
+RF0102,2025-10,ERP inventory balances,ERP,Success,30,30,3816,Analytics
+RF0103,2025-10,Excel shortage tracker,Excel,Late,17,30,5624,Analytics
+RF0104,2025-10,SharePoint quality log,SharePoint,Success,39,30,6472,Analytics
+RF0105,2025-10,Power BI semantic model,Power,Failed,21,30,4440,Analytics
+RF0201,2025-11,ERP purchase orders,ERP,Failed,22,30,1078,Analytics
+RF0202,2025-11,ERP inventory balances,ERP,Late,32,30,6103,Analytics
+RF0203,2025-11,Excel shortage tracker,Excel,Success,28,30,3007,Analytics
+RF0204,2025-11,SharePoint quality log,SharePoint,Success,36,30,5566,Analytics
+RF0205,2025-11,Power BI semantic model,Power,Late,45,30,3468,Analytics
+RF0301,2025-12,ERP purchase orders,ERP,Failed,34,30,3827,Analytics
+RF0302,2025-12,ERP inventory balances,ERP,Failed,42,30,6743,Analytics
+RF0303,2025-12,Excel shortage tracker,Excel,Success,26,30,772,Analytics
+RF0304,2025-12,SharePoint quality log,SharePoint,Failed,11,30,7359,Analytics
+RF0305,2025-12,Power BI semantic model,Power,Success,9,30,2535,Analytics
+RF0401,2026-01,ERP purchase orders,ERP,Failed,12,30,7235,Analytics
+RF0402,2026-01,ERP inventory balances,ERP,Success,36,30,1791,Analytics
+RF0403,2026-01,Excel shortage tracker,Excel,Success,16,30,5205,Analytics
+RF0404,2026-01,SharePoint quality log,SharePoint,Success,42,30,7867,Analytics
+RF0405,2026-01,Power BI semantic model,Power,Success,31,30,4492,Analytics
+RF0501,2026-02,ERP purchase orders,ERP,Success,12,30,569,Analytics
+RF0502,2026-02,ERP inventory balances,ERP,Success,8,30,5959,Analytics
+RF0503,2026-02,Excel shortage tracker,Excel,Late,37,30,2571,Analytics
+RF0504,2026-02,SharePoint quality log,SharePoint,Late,8,30,8149,Analytics
+RF0505,2026-02,Power BI semantic model,Power,Failed,16,30,6133,Analytics
+RF0601,2026-03,ERP purchase orders,ERP,Late,45,30,3961,Analytics
+RF0602,2026-03,ERP inventory balances,ERP,Failed,44,30,3333,Analytics
+RF0603,2026-03,Excel shortage tracker,Excel,Failed,41,30,7775,Analytics
+RF0604,2026-03,SharePoint quality log,SharePoint,Success,27,30,2159,Analytics
+RF0605,2026-03,Power BI semantic model,Power,Late,10,30,6426,Analytics

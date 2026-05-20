@@ -1,0 +1,17 @@
+{
+  "active_parts": 72,
+  "suppliers": 30,
+  "po_lines": 776,
+  "material_readiness_pct": 66.7,
+  "supplier_otif_pct": 52.4,
+  "shortage_exposure": 4455389,
+  "inventory_value": 62723024,
+  "excess_inventory_exposure": 11528774,
+  "latest_po_value": 51986202,
+  "past_due_po_value": 23746805,
+  "refresh_success_pct": 43.3,
+  "open_high_data_quality_issues": 5,
+  "top_risk_part": "PRT030",
+  "top_risk_score": 72.9,
+  "source_note": "Synthetic aerospace supply chain reporting data generated from documented ERP, Excel, and SharePoint-style structures. It does not represent any real company performance."
+}

@@ -1,0 +1,20 @@
+quality_event_id,month,part_id,supplier_id,event_type,severity,containment_days,estimated_program_impact
+QE0001,2025-10,PRT014,SUP021,Nonconformance,High,22,155081
+QE0002,2025-10,PRT027,SUP005,FAI delay,Medium,12,387072
+QE0003,2025-10,PRT034,SUP005,Certificate mismatch,Medium,9,275512
+QE0004,2025-11,PRT006,SUP002,Certificate mismatch,Medium,11,1103657
+QE0005,2025-11,PRT038,SUP007,Nonconformance,Medium,11,592935
+QE0006,2025-12,PRT003,SUP021,Certificate mismatch,Medium,16,731768
+QE0007,2026-01,PRT032,SUP003,Nonconformance,High,19,286176
+QE0008,2026-01,PRT061,SUP025,Certificate mismatch,Medium,10,706914
+QE0009,2026-02,PRT004,SUP007,FAI delay,Low,9,220284
+QE0010,2026-02,PRT012,SUP019,Nonconformance,Low,5,57662
+QE0011,2026-02,PRT031,SUP027,Inspection hold,Medium,11,53720
+QE0012,2026-02,PRT040,SUP012,Certificate mismatch,Low,3,211715
+QE0013,2026-03,PRT009,SUP002,Nonconformance,Medium,13,80632
+QE0014,2026-03,PRT010,SUP029,Inspection hold,Medium,16,373262
+QE0015,2026-03,PRT040,SUP012,Nonconformance,High,26,719831
+QE0016,2026-03,PRT046,SUP022,Certificate mismatch,Low,3,126592
+QE0017,2026-03,PRT049,SUP017,FAI delay,Low,5,143110
+QE0018,2026-03,PRT054,SUP023,Nonconformance,Medium,13,722948
+QE0019,2026-03,PRT061,SUP025,Certificate mismatch,Low,7,562812

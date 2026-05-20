@@ -1,0 +1,73 @@
+part_id,part_name,part_class,supplier_id,business_unit,site,unit_cost,standard_lead_time_days,monthly_demand_units,safety_stock_units,criticality,lifecycle_state
+PRT001,Space grade memory 001,Space grade memory,SUP004,Space electronics,Concord development,10578,96,19,12,Flight critical,Production
+PRT002,Mechanical enclosure 002,Mechanical enclosure,SUP011,Space electronics,Chantilly production,1928,40,16,13,Program critical,Production
+PRT003,Power subsystem 003,Power subsystem,SUP021,Optical sensors,Concord development,18479,189,31,27,Flight critical,NPI
+PRT004,Space grade memory 004,Space grade memory,SUP007,Space electronics,Chantilly production,7596,145,63,42,Program critical,Sustainment
+PRT005,RF module 005,RF module,SUP008,Optical sensors,Concord development,9250,67,29,23,Program critical,Sustainment
+PRT006,Optical assembly 006,Optical assembly,SUP002,Space electronics,Concord development,24553,160,36,27,Flight critical,Production
+PRT007,Cable harness 007,Cable harness,SUP010,Space electronics,Chantilly production,4071,35,17,12,Flight critical,Production
+PRT008,Mechanical enclosure 008,Mechanical enclosure,SUP005,C4ISR systems,Chantilly production,6316,91,13,7,Program critical,Production
+PRT009,Mechanical enclosure 009,Mechanical enclosure,SUP002,C4ISR systems,Fairfax HQ,2572,63,51,31,Flight critical,Production
+PRT010,Space grade memory 010,Space grade memory,SUP029,Space electronics,Fairfax HQ,7406,103,55,25,Program critical,Production
+PRT011,Optical assembly 011,Optical assembly,SUP005,Space electronics,Chantilly production,26848,198,39,22,Flight critical,Production
+PRT012,RF module 012,RF module,SUP019,Optical sensors,Concord development,4613,80,58,46,Flight critical,Production
+PRT013,Power subsystem 013,Power subsystem,SUP024,C4ISR systems,Concord development,12565,129,10,4,Flight critical,Production
+PRT014,Mechanical enclosure 014,Mechanical enclosure,SUP021,C4ISR systems,Chantilly production,2172,67,71,57,Flight critical,Sustainment
+PRT015,Mechanical enclosure 015,Mechanical enclosure,SUP024,C4ISR systems,Chantilly production,6594,83,10,3,Flight critical,Production
+PRT016,Power subsystem 016,Power subsystem,SUP016,Space electronics,Fairfax HQ,11990,105,40,32,Standard,Production
+PRT017,RF module 017,RF module,SUP015,Optical sensors,Fairfax HQ,6678,79,56,34,Flight critical,Production
+PRT018,Cable harness 018,Cable harness,SUP001,C4ISR systems,Concord development,2034,58,48,40,Flight critical,Production
+PRT019,Power subsystem 019,Power subsystem,SUP029,Space electronics,Concord development,6481,131,17,16,Flight critical,NPI
+PRT020,Cable harness 020,Cable harness,SUP017,Space electronics,Concord development,2563,53,69,57,Program critical,Production
+PRT021,Mechanical enclosure 021,Mechanical enclosure,SUP010,Space electronics,Chantilly production,5196,44,41,27,Standard,Production
+PRT022,Power subsystem 022,Power subsystem,SUP021,Space electronics,Concord development,12796,174,34,25,Flight critical,Production
+PRT023,RF module 023,RF module,SUP030,Space electronics,Chantilly production,6162,107,8,6,Standard,NPI
+PRT024,RF module 024,RF module,SUP020,Optical sensors,Concord development,5376,49,45,32,Flight critical,Production
+PRT025,RF module 025,RF module,SUP004,Optical sensors,Concord development,6363,90,9,5,Standard,NPI
+PRT026,Cable harness 026,Cable harness,SUP027,C4ISR systems,Chantilly production,2518,43,69,60,Standard,Production
+PRT027,Optical assembly 027,Optical assembly,SUP005,Optical sensors,Concord development,7560,206,13,6,Flight critical,Sustainment
+PRT028,Optical assembly 028,Optical assembly,SUP017,C4ISR systems,Concord development,13119,140,52,37,Flight critical,Sustainment
+PRT029,Space grade memory 029,Space grade memory,SUP012,Optical sensors,Fairfax HQ,11039,106,10,4,Flight critical,Production
+PRT030,Radiation tolerant FPGA 030,Radiation tolerant FPGA,SUP028,Space electronics,Concord development,21193,150,60,34,Program critical,Production
+PRT031,Cable harness 031,Cable harness,SUP027,C4ISR systems,Chantilly production,1118,36,45,42,Program critical,Production
+PRT032,Space grade memory 032,Space grade memory,SUP003,C4ISR systems,Concord development,11289,122,23,12,Flight critical,NPI
+PRT033,Optical assembly 033,Optical assembly,SUP003,Space electronics,Chantilly production,19713,191,33,25,Flight critical,Sustainment
+PRT034,RF module 034,RF module,SUP005,Optical sensors,Concord development,9048,99,36,14,Flight critical,Production
+PRT035,Radiation tolerant FPGA 035,Radiation tolerant FPGA,SUP026,C4ISR systems,Concord development,18810,115,15,12,Flight critical,Production
+PRT036,Radiation tolerant FPGA 036,Radiation tolerant FPGA,SUP008,Space electronics,Concord development,11855,148,48,30,Program critical,Sustainment
+PRT037,Power subsystem 037,Power subsystem,SUP004,Optical sensors,Concord development,15618,91,17,6,Program critical,NPI
+PRT038,Power subsystem 038,Power subsystem,SUP007,Optical sensors,Concord development,13191,78,42,17,Flight critical,Production
+PRT039,RF module 039,RF module,SUP022,Space electronics,Concord development,10897,145,17,8,Program critical,Sustainment
+PRT040,RF module 040,RF module,SUP012,C4ISR systems,Fairfax HQ,9205,68,29,27,Flight critical,NPI
+PRT041,Mechanical enclosure 041,Mechanical enclosure,SUP001,C4ISR systems,Chantilly production,3300,30,27,18,Flight critical,NPI
+PRT042,Radiation tolerant FPGA 042,Radiation tolerant FPGA,SUP025,Optical sensors,Fairfax HQ,16538,127,37,16,Program critical,Production
+PRT043,Radiation tolerant FPGA 043,Radiation tolerant FPGA,SUP001,Space electronics,Concord development,27940,131,24,15,Standard,Production
+PRT044,Radiation tolerant FPGA 044,Radiation tolerant FPGA,SUP018,C4ISR systems,Concord development,27908,126,34,12,Standard,Production
+PRT045,Optical assembly 045,Optical assembly,SUP004,Optical sensors,Chantilly production,21016,174,14,8,Standard,Production
+PRT046,Cable harness 046,Cable harness,SUP022,Optical sensors,Concord development,3440,89,41,22,Flight critical,Production
+PRT047,RF module 047,RF module,SUP029,Optical sensors,Chantilly production,10032,112,11,5,Flight critical,Production
+PRT048,RF module 048,RF module,SUP026,Space electronics,Chantilly production,7831,28,13,7,Standard,Production
+PRT049,Space grade memory 049,Space grade memory,SUP017,C4ISR systems,Chantilly production,5204,99,21,13,Standard,Production
+PRT050,Radiation tolerant FPGA 050,Radiation tolerant FPGA,SUP030,C4ISR systems,Fairfax HQ,17592,133,54,38,Program critical,Production
+PRT051,RF module 051,RF module,SUP010,C4ISR systems,Chantilly production,10683,54,49,21,Flight critical,Production
+PRT052,Radiation tolerant FPGA 052,Radiation tolerant FPGA,SUP011,Optical sensors,Concord development,23081,151,50,27,Program critical,Production
+PRT053,Space grade memory 053,Space grade memory,SUP003,C4ISR systems,Concord development,7900,115,24,17,Flight critical,NPI
+PRT054,Optical assembly 054,Optical assembly,SUP023,Space electronics,Concord development,19050,132,34,25,Flight critical,Production
+PRT055,Optical assembly 055,Optical assembly,SUP030,C4ISR systems,Concord development,16722,169,33,15,Flight critical,Production
+PRT056,Cable harness 056,Cable harness,SUP019,Space electronics,Chantilly production,1044,25,45,29,Standard,Production
+PRT057,Radiation tolerant FPGA 057,Radiation tolerant FPGA,SUP015,Space electronics,Chantilly production,10695,150,68,59,Flight critical,Sustainment
+PRT058,Cable harness 058,Cable harness,SUP025,C4ISR systems,Fairfax HQ,3859,32,68,57,Program critical,Production
+PRT059,Space grade memory 059,Space grade memory,SUP018,Space electronics,Concord development,8926,98,16,14,Standard,Production
+PRT060,Space grade memory 060,Space grade memory,SUP023,Optical sensors,Concord development,10047,78,38,15,Program critical,Sustainment
+PRT061,Radiation tolerant FPGA 061,Radiation tolerant FPGA,SUP025,C4ISR systems,Concord development,18126,151,12,11,Flight critical,NPI
+PRT062,Mechanical enclosure 062,Mechanical enclosure,SUP001,Space electronics,Chantilly production,6107,57,49,27,Program critical,NPI
+PRT063,Radiation tolerant FPGA 063,Radiation tolerant FPGA,SUP006,Space electronics,Concord development,23628,188,17,10,Standard,Sustainment
+PRT064,Power subsystem 064,Power subsystem,SUP020,C4ISR systems,Chantilly production,17032,193,34,13,Program critical,Production
+PRT065,Radiation tolerant FPGA 065,Radiation tolerant FPGA,SUP012,Optical sensors,Concord development,17214,131,40,25,Flight critical,Production
+PRT066,Cable harness 066,Cable harness,SUP008,C4ISR systems,Fairfax HQ,2458,42,10,7,Flight critical,Production
+PRT067,RF module 067,RF module,SUP003,C4ISR systems,Fairfax HQ,4668,100,51,43,Flight critical,Production
+PRT068,RF module 068,RF module,SUP017,Space electronics,Fairfax HQ,7145,84,14,6,Program critical,NPI
+PRT069,Cable harness 069,Cable harness,SUP004,Space electronics,Chantilly production,3425,46,33,20,Flight critical,Production
+PRT070,RF module 070,RF module,SUP015,C4ISR systems,Chantilly production,8172,88,30,11,Flight critical,Production
+PRT071,RF module 071,RF module,SUP012,Space electronics,Fairfax HQ,7378,76,69,27,Flight critical,Production
+PRT072,Radiation tolerant FPGA 072,Radiation tolerant FPGA,SUP024,Space electronics,Fairfax HQ,24697,164,12,8,Program critical,Production

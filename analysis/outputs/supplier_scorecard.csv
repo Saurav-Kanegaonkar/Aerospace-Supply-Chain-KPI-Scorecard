@@ -1,0 +1,31 @@
+supplier_id,supplier_name,supplier_tier,po_lines,supplier_otif_pct,quality_events,po_value,supplier_review_status
+SUP012,Mission supplier 12,Preferred,44,61.4,2,19459809,Escalate
+SUP030,Mission supplier 30,Preferred,34,55.9,0,18078948,Escalate
+SUP028,Mission supplier 28,Qualified,13,53.8,0,17738541,Escalate
+SUP005,Mission supplier 05,Strategic sole source,43,44.2,2,17455592,Escalate
+SUP015,Mission supplier 15,Preferred,32,43.8,0,15946881,Escalate
+SUP003,Mission supplier 03,Qualified,46,60.9,1,15785646,Escalate
+SUP001,Mission supplier 01,Qualified,47,57.4,0,14784481,Escalate
+SUP002,Mission supplier 02,Preferred,25,56.0,2,13204209,Escalate
+SUP021,Mission supplier 21,Strategic sole source,34,32.4,2,12883373,Escalate
+SUP011,Mission supplier 11,Preferred,22,54.5,0,12518494,Escalate
+SUP007,Mission supplier 07,Qualified,22,54.5,2,11776749,Escalate
+SUP023,Mission supplier 23,Preferred,21,57.1,1,11018244,Escalate
+SUP004,Mission supplier 04,Preferred,55,60.0,0,10922284,Escalate
+SUP025,Mission supplier 25,Preferred,32,53.1,2,10809870,Escalate
+SUP017,Mission supplier 17,Preferred,42,57.1,1,10705219,Escalate
+SUP020,Mission supplier 20,Watch list,21,19.0,0,8877040,Escalate
+SUP029,Mission supplier 29,Qualified,37,64.9,1,8502080,Escalate
+SUP008,Mission supplier 08,Preferred,28,50.0,0,6780527,Escalate
+SUP024,Mission supplier 24,Qualified,32,50.0,0,5449636,Escalate
+SUP026,Mission supplier 26,Preferred,23,43.5,0,5200224,Escalate
+SUP006,Mission supplier 06,Strategic sole source,9,55.6,0,4465692,Escalate
+SUP016,Mission supplier 16,Preferred,9,22.2,0,4148540,Escalate
+SUP022,Mission supplier 22,Watch list,18,5.6,1,3531342,Escalate
+SUP019,Mission supplier 19,Preferred,19,47.4,1,2888420,Escalate
+SUP027,Mission supplier 27,Preferred,20,60.0,1,2258378,Escalate
+SUP018,Mission supplier 18,Preferred,18,77.8,0,9154384,Monitor
+SUP010,Mission supplier 10,Preferred,30,66.7,0,7667130,Monitor
+SUP009,Mission supplier 09,Preferred,0,100.0,0,0,Monitor
+SUP013,Mission supplier 13,Watch list,0,100.0,0,0,Monitor
+SUP014,Mission supplier 14,Preferred,0,100.0,0,0,Monitor

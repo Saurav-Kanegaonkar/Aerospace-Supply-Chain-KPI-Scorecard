@@ -1,0 +1,6 @@
+dataset_name,refreshes,success_rate_pct,sla_attainment_pct,latest_status,owner
+ERP inventory balances,6,50.0,33.3,Failed,Analytics
+ERP purchase orders,6,16.7,16.7,Late,Analytics
+Excel shortage tracker,6,50.0,50.0,Failed,Analytics
+Power BI semantic model,6,33.3,16.7,Late,Analytics
+SharePoint quality log,6,66.7,16.7,Success,Analytics

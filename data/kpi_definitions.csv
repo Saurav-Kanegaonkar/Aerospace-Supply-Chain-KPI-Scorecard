@@ -1,0 +1,9 @@
+kpi_name,domain,business_definition,reporting_cadence,business_owner,certification_status
+Material Readiness Rate,Inventory,Parts with no shortage divided by active demand parts.,Daily,Supply chain,Certified
+Supplier OTIF,Supplier,PO lines received on time and in full divided by closed PO lines.,Weekly,Supply chain,Certified
+Past Due Exposure,Supplier,Open PO value where receipt is more than three days past promise.,Weekly,Operations,In review
+Shortage Exposure,Material,Shortage units multiplied by unit cost for active program demand.,Daily,Program,Certified
+Inventory Turns,Working capital,Trailing demand value divided by average inventory value.,Monthly,Finance,In review
+Excess Inventory Exposure,Working capital,Inventory value above demand plus safety stock thresholds.,Monthly,Finance,In review
+Quality Escape Rate,Supplier quality,Supplier quality events divided by PO lines.,Monthly,Quality,Certified
+Refresh SLA Attainment,Reporting ops,Successful reporting refreshes completed by SLA.,Weekly,Analytics,Certified

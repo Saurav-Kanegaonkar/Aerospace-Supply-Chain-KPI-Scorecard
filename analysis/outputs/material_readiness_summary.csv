@@ -1,0 +1,4 @@
+business_unit,active_parts,material_readiness_pct,shortage_exposure,inventory_value,excess_inventory_exposure,working_capital_review_flag
+Space electronics,29,69.0,1615642,28881299,5569424,Review
+C4ISR systems,25,68.0,1628806,15724148,1819264,Monitor
+Optical sensors,18,61.1,1210941,18117577,4140086,Review

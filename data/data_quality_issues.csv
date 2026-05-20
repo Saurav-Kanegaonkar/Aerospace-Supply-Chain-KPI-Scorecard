@@ -1,0 +1,27 @@
+issue_id,source_system,check_name,severity,records_impacted,business_owner,status,recommended_fix
+DQ0001,Excel shortage tracker,Inventory balance negative,High,175,Program,In progress,Reconcile source extract
+DQ0002,ERP,Business unit mapping mismatch,High,178,Supply chain,In progress,Reconcile source extract
+DQ0003,ERP,Supplier master missing defense flowdown status,Medium,6,Supply chain,In progress,Add owner rule
+DQ0004,ERP,Supplier master missing defense flowdown status,Medium,179,Quality,Open,Certify KPI mapping
+DQ0005,ERP,Business unit mapping mismatch,Medium,101,Finance,Resolved,Add owner rule
+DQ0006,SharePoint quality log,Part master lead time missing,Medium,46,Supply chain,Open,Update master data
+DQ0007,ERP,Business unit mapping mismatch,High,98,Quality,In progress,Add owner rule
+DQ0008,ERP,Supplier master missing defense flowdown status,High,44,Program,Open,Certify KPI mapping
+DQ0009,SharePoint quality log,Inventory balance negative,Medium,128,Supply chain,Open,Add owner rule
+DQ0010,SharePoint quality log,Business unit mapping mismatch,Medium,62,Operations,Open,Add owner rule
+DQ0011,Excel shortage tracker,Business unit mapping mismatch,Medium,172,Quality,Resolved,Certify KPI mapping
+DQ0012,ERP,Part master lead time missing,Low,160,Finance,In progress,Update master data
+DQ0013,Excel shortage tracker,Inventory balance negative,Medium,75,Quality,In progress,Certify KPI mapping
+DQ0014,SharePoint quality log,Shortage tracker owner blank,Medium,148,Finance,Open,Update master data
+DQ0015,Excel shortage tracker,Part master lead time missing,Low,191,Program,Open,Certify KPI mapping
+DQ0016,ERP,Inventory balance negative,Medium,85,Quality,Resolved,Certify KPI mapping
+DQ0017,SharePoint quality log,Part master lead time missing,Medium,40,Finance,Open,Add owner rule
+DQ0018,Excel shortage tracker,PO receipt date after invoice date,High,81,Finance,Open,Add owner rule
+DQ0019,SharePoint quality log,Shortage tracker owner blank,Medium,185,Quality,Resolved,Certify KPI mapping
+DQ0020,Excel shortage tracker,Inventory balance negative,High,111,Finance,Resolved,Reconcile source extract
+DQ0021,SharePoint quality log,Part master lead time missing,Medium,103,Finance,In progress,Reconcile source extract
+DQ0022,ERP,Inventory balance negative,Medium,66,Finance,In progress,Certify KPI mapping
+DQ0023,Excel shortage tracker,Supplier master missing defense flowdown status,Medium,119,Supply chain,Open,Reconcile source extract
+DQ0024,Excel shortage tracker,PO receipt date after invoice date,Medium,153,Supply chain,Open,Update master data
+DQ0025,Excel shortage tracker,Part master lead time missing,Medium,9,Program,Open,Update master data
+DQ0026,Excel shortage tracker,PO receipt date after invoice date,Low,94,Operations,Resolved,Certify KPI mapping
